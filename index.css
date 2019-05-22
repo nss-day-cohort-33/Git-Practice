@@ -1,0 +1,17 @@
+body {
+    background-color: lightcoral
+}
+h1 {
+    color: darkolivegreen;
+    font-size: 5rem;
+    background-color: lightgoldenrodyellow;
+}
+
+.student-container {
+    background-color: lightgoldenrodyellow;
+    border: 4px dashed peru;
+}
+.student-container h3 {
+    color: purple;
+    font-size: 2rem;
+}
