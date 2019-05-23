@@ -5,6 +5,21 @@ h1 {
     color: darkolivegreen;
     font-size: 5rem;
     background-color: lightgoldenrodyellow;
+    border-radius: 25px;
+    text-align: center;
+}
+li {
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+.instrux-container {
+    background-color: lightgoldenrodyellow;
+    border: 4px dashed peru;
+}
+.instrux-container h3 {
+    color: purple;
+    font-size: 2rem;
 }
 
 .student-container {
