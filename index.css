@@ -30,3 +30,7 @@ li {
     color: purple;
     font-size: 2rem;
 }
+
+.snap-img {
+    height: 300px;
+}
