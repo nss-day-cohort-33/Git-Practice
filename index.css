@@ -1,32 +1,32 @@
 body {
-    background-color: lightcoral;
+    background-color:#00ffe0;
 }
 h1 {
-    color: darkolivegreen;
+    color: #2a3439;
     font-size: 5rem;
-    background-color: lightgoldenrodyellow;
+    background-color: #e089bc;
     border-radius: 25px;
     text-align: center;
 }
 li {
-    color: darkolivegreen;
+    color: #2a3439;
     font-weight: bold;
 }
 
 .instrux-container {
-    background-color: lightgoldenrodyellow;
-    border: 4px dashed peru;
+    background-color: #e089bc;
+    border: 4px dashed #2a3439;
 }
 .instrux-container h3 {
-    color: purple;
+    color: #2a3439;
     font-size: 2rem;
 }
 
 .student-container {
-    background-color: lightgoldenrodyellow;
-    border: 4px dashed peru;
+    background-color: #e089bc;
+    border: 4px dashed #2a3439;
 }
 .student-container h3 {
-    color: purple;
+    color: #2a3439;
     font-size: 2rem;
 }
